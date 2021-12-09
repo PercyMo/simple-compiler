@@ -1,0 +1,14 @@
+{
+  "name": "simple-compiler",
+  "version": "1.0.0",
+  "description": "一个极简编译器",
+  "main": "simple-compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "1418968663@qq.com",
+  "license": "ISC"
+}
